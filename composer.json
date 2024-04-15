@@ -1,5 +1,5 @@
 {
-    "name": "lc-excell/magento-composer-installer",
+    "name": "magento-hackathon/magento-composer-installer",
     "description": "Composer installer for Magento modules",
     "keywords": [
         "composer-installer",
